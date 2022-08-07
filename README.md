@@ -1,10 +1,15 @@
 # ComputerVision-MapIcons
 
+## Goal
+
 The goal of this project is to succesfully identify the green [circles](https://raw.githubusercontent.com/ThePieMonster/ComputerVision-MapIcons/main/Datasets/green-circle.png) and [arrows](https://raw.githubusercontent.com/ThePieMonster/ComputerVision-MapIcons/main/Datasets/green-arrow.png) and the red [circles](https://raw.githubusercontent.com/ThePieMonster/ComputerVision-MapIcons/main/Datasets/red-circle.png) and [arrows](https://raw.githubusercontent.com/ThePieMonster/ComputerVision-MapIcons/main/Datasets/red-arrow.png).
 
-Output Goal
+**Output Goal**
 - Green circles and arrows: *number*
 - Red circles and arrows: *number*
+- Output image with green boxs around green icons and red boxs around red icons
+
+## Data
 
 The testing images are located in the `Live Images` folder.
 
